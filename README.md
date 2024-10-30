@@ -1,7 +1,6 @@
-# kamerasesproje
+# Flutter Kamera uygulaması  
 
-A new Flutter project.
-
+Flutter projem
 ## Getting Started
 
 This project is a starting point for a Flutter application.
